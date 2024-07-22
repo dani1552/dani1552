@@ -23,9 +23,9 @@
 
 | 2021.03 - Present | 순천향대학교 의료IT공학과 재학 |
 | :---: | :---: |
-| 2022.08 - 2023.09 | GDSC SCH 프론트엔드 Member |
+| 2022.08 - 2023.09 | GDSC SCH 프론트엔드 |
 | 2022.11 | SW중심대학 창업 경진대회 우수상 🏆 |
 | 2023.11 - Present | 순천향대학교 Medical System & Device Lab 학부 인턴 |
-| 2024.03 - Present | 9roomthon Univ 2기 미르미 |
+| 2024.03 - Present | 9roomthon Univ 2기, 3기 미르미 |
 | 2024.03 | kakao x groom 벚꽃톤 프론트엔드 |
 </div>
