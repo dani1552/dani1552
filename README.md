@@ -26,5 +26,5 @@
 | 2022.08 - 2023.09 | GDSC SCH 프론트엔드 |
 | 2022.11 | SW중심대학 창업 경진대회 우수상 🏆 |
 | 2023.11 - Present | 순천향대학교 Medical System & Device Lab 학부 인턴 | 
-| 2024.03 - Present | 9roomthon Univ 2기, 3기 프론트엔드 미르미 |
+| 2024.03 - Present | 9oormthon Univ 2기, 3기 프론트엔드 미르미 |
 </div>
