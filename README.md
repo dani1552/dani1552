@@ -5,20 +5,16 @@
 
 
 **`Email`** dani1552@naver.com
-<br><br><br><br>
+<hr>
 <h3>🫧 Tech Stacks </h3>
 <br>
-
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flutter,js,css,html,vite" />
   </a>
 </p>
-<br>
-
-<br>
-<h3>✨ Experience </h3>
+<hr><h3>✨ Experience </h3>
 <br>
 <div align="center">
   
