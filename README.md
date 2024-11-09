@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,js,css,html,vite" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,css,html,flutter" />
   </a>
 </p>
 <hr><h3>✨ Experience </h3>
