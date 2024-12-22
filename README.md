@@ -3,8 +3,6 @@
 <div align="center">
 <h3>안녕하세요, 프론트엔드 개발자 김다은입니다! </h3>
 
-
-**`Email`** dani1552@naver.com
 <hr>
 <h3>🫧 Tech Stacks </h3>
 <br>
