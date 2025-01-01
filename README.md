@@ -1,27 +1,22 @@
 
 
-<div align="center">
+<div align="start">
 <h3>안녕하세요, 프론트엔드 개발자 김다은입니다! </h3>
-
-<hr>
-<h3>🫧 Tech Stacks </h3>
+<br>
+  
+<h3>💬 Tech Stacks </h3>
 <br>
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,css,html,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,css,html" />
   </a>
 </p>
-<hr><h3>✨ Experience </h3>
+<h3>💬 Experience </h3>
 <br>
-<div align="center">
-  
-| **2022.08 - 2023.09** | GDSC SCH 프론트엔드 (APP 파트)  |
-| :---: | :---: |
-| **2022.11** | **SW중심대학 창업 경진대회 우수상 🏆** |
-| **2023.11 - 2024.12** | **순천향대학교 Medical System & Device Lab 학부 연구생** |
-| **2024.03 - 2025.01** | **Kakao x 9oormthonUNIV 2기, 3기 프론트엔드 미르미** |
-| **2024.05 - 2025.07** | **대한전기학회 하계학술대회 논문 제출 및 발표** |
-| **2024.10 - 2024.12** | **스위프(SWYP) 7기 프론트엔드 개발자** |
+<div align="start">
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dani1552)](https://solved.ac/dani1552)
 
 </div>
