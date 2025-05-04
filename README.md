@@ -19,6 +19,11 @@ UI/UX 설계와 성능 최적화에 관심이 많으며, 사소한 불편도 빠
 
 <br><br>
 <h3>💬 Experience </h3>
+
+`2022.08 - 2023.09` GDGoC (Google Development Student Club) 프론트엔드<br>
+`2023.11 - 2024.12` Medical System & Device Lab 학부 연구생<br>
+`2024.03 - 2024.12` Kakao x 9oormthonUNIV 2기, 3기 프론트엔드 미르미<br>
+`2025.01 - Present` 카카오테크 부트캠프 풀스택 2기<br>
 <br>
 <div align="start">
 
