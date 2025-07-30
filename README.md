@@ -7,7 +7,7 @@
 UI/UX 설계와 성능 최적화에 관심이 많으며, Lighthouse 기반 성능 분석, 렌더링 전략 개선을 통해 사용자 불편을 빠르게 인지하고 해결합니다.<br>
 클린 코드와 재사용 가능한 컴포넌트 구조를 지향하며, 혼자보다 함께 더 나은 결과를 만드는 개발자가 되고자 합니다 :)
 
-<br>
+
 <h3>💬 Tech Stacks </h3>
 <br>
 
@@ -17,7 +17,7 @@ UI/UX 설계와 성능 최적화에 관심이 많으며, Lighthouse 기반 성�
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
-<br><br>
+<br>
 <h3>💬 Experience </h3>
 
 `2025.01 - Present` 카카오테크 부트캠프 풀스택 2기<br>
