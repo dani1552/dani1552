@@ -11,11 +11,15 @@ UI/UX 설계와 성능 최적화에 관심이 많으며, Lighthouse 기반 성�
 <h3>💬 Tech Stacks </h3>
 <br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-<img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+| Proficiency Level   | Technologies                  |
+|---------------------|--------------------------------|
+| 👩🏻‍💻 Proficient in       | <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> |
+| 🙆🏻‍♂️ Have experience with | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">                        |
+
+
+
+
+
 
 <br>
 <h3>💬 Experience </h3>
