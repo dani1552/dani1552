@@ -17,6 +17,16 @@ UI/UX 설계와 성능 최적화에 관심이 많으며, Lighthouse 기반 성�
 | 🙆🏻‍♂️ Have experience with | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">                        |
 
 <br>
+<h3>Tech Blog</h3>
+
+- [[Next.js] SSR 성능 최적화: Core Web Vitals 지표 개선하기](https://dani1552.tistory.com/30)
+- [[Next.js] Refresh Token 만료로 인한 페이지 무한 새로고침 오류 해결하기](https://dani1552.tistory.com/16)
+- [[Next.js] SSE 브라우저 연결 오류 해결하기 (Nginx)](https://dani1552.tistory.com/11)
+- [[Next.js] useSearchParams 사용 시 Next.js 15 빌드 실패 이슈](https://dani1552.tistory.com/15)
+- [[Next.js] next-pwa와 Turbopack 호환성 문제 해결하기](https://dani1552.tistory.com/14)
+- [[Next.js] Zustand를 활용한 성능 개선하기](https://dani1552.tistory.com/23)
+
+<br>
 <h3>Experience </h3>
 
 `2025.01 - 2025.08` 카카오테크 부트캠프 풀스택 2기<br>
