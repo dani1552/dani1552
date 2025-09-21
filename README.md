@@ -1,15 +1,19 @@
 
 
 <div align="start">
-<h3>안녕하세요, 빠른 문제 해결으로 사용자 경험을 개선해나가는 프론트엔드 개발자 김다은입니다! </h3>
+<h2>👩🏻‍💻 김다은 | 프론트엔드 개발자</h2>
+<br>
 
+안녕하세요, **빠른 문제 해결로 사용자 경험을 개선해나가는 프론트엔드 개발자 김다은**입니다!  
 기능 구현을 넘어 사용자에게 더 나은 경험을 전달하기 위해 디자인부터 마이크로 인터랙션까지 세심하게 고민합니다.  
-UI/UX 설계와 성능 최적화에 관심이 많으며, Lighthouse 기반 성능 분석, 렌더링 전략 개선을 통해 사용자 불편을 빠르게 인지하고 해결합니다.<br>
-클린 코드와 재사용 가능한 컴포넌트 구조를 지향하며, 혼자보다 함께 더 나은 결과를 만드는 개발자가 되고자 합니다 :)
+
+- UI/UX 설계와 성능 최적화에 관심이 많습니다.  
+- Lighthouse 기반 성능 분석, 렌더링 전략 개선을 통해 사용자 불편을 빠르게 인지하고 해결합니다.  
+- 클린 코드와 재사용 가능한 컴포넌트 구조를 지향합니다.  
+- 혼자보다 함께 더 나은 결과를 만드는 개발자가 되고자 합니다.  
 
 <br>
 <h3>Tech Stacks </h3>
-
 
 | Proficiency Level   | Technologies                  |
 |---------------------|--------------------------------|
@@ -19,12 +23,13 @@ UI/UX 설계와 성능 최적화에 관심이 많으며, Lighthouse 기반 성�
 <br>
 <h3>Tech Blog</h3>
 
+제가 경험한 기술적 도전과 해결 과정을 기록한 글입니다.
 - [[Next.js] SSR 성능 최적화: Core Web Vitals 지표 개선하기](https://dani1552.tistory.com/30)
+- [[Next.js] Zustand를 활용한 성능 개선하기](https://dani1552.tistory.com/23)
 - [[Next.js] Refresh Token 만료로 인한 페이지 무한 새로고침 오류 해결하기](https://dani1552.tistory.com/16)
 - [[Next.js] SSE 브라우저 연결 오류 해결하기 (Nginx)](https://dani1552.tistory.com/11)
 - [[Next.js] useSearchParams 사용 시 Next.js 15 빌드 실패 이슈](https://dani1552.tistory.com/15)
 - [[Next.js] next-pwa와 Turbopack 호환성 문제 해결하기](https://dani1552.tistory.com/14)
-- [[Next.js] Zustand를 활용한 성능 개선하기](https://dani1552.tistory.com/23)
 
 <br>
 <h3>Experience </h3>
