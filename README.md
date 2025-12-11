@@ -30,7 +30,11 @@ UI/UX 설계와 성능 최적화에 관심이 많으며, Lighthouse 기반 성�
 <br>
 <h3>Experience </h3>
 
+`2025.12 - 2025.12` 구름톤 제주 16기 프론트엔드 개발자<br>
 `2025.01 - 2025.08` 카카오테크 부트캠프 풀스택 2기<br>
+`2024.10 - 2025.03` 스위프 7기, 8기 프론트엔드 개발자<br>
+`2024.08 - 2024.10` goorm KDC 오늘부터 웹 개발 47기<br>
+`2024.05 - 2024.07` [대한전기학회 하계학술대회 인공지능 논문 발표](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=2c8ad374666a17447ecd42904f0c5d65)<br>
 `2024.03 - 2024.12` Kakao x 9oormthonUNIV 2기, 3기 프론트엔드 미르미<br>
 `2023.11 - 2024.12` Medical System & Device Lab 학부 연구생<br>
 `2022.08 - 2023.09` GDGoC (Google Developer Groups on Campus) 프론트엔드<br>
