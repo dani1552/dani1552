@@ -12,10 +12,11 @@
 <br>
 <h3>Tech Stacks </h3>
 
-| Proficiency Level   | Technologies                  |
-|---------------------|--------------------------------|
-| 👩🏻‍💻 Proficient in       | <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> |
-| 🙆🏻‍♂️ Have experience with | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
+|                     | Technologies                                                                                                                                                                                                                                                                                                             |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend** | <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> |
+| **Server**   | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
+| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
 
 <br>
 <h3>Tech Blog</h3>
@@ -26,17 +27,3 @@
 - [[Next.js] SSE 브라우저 연결 오류 해결하기 (Nginx)](https://dani1552.tistory.com/11)
 - [[Next.js] useSearchParams 사용 시 Next.js 15 빌드 실패 이슈](https://dani1552.tistory.com/15)
 - [[Next.js] next-pwa와 Turbopack 호환성 문제 해결하기](https://dani1552.tistory.com/14)
-
-<br>
-<h3>Experience </h3>
-
-`2026.03 - Present` 보이스캐디엑스 풀스택 개발자<br>
-`2025.12 - 2025.12` 구름톤 in JEJU 16기 프론트엔드 개발자<br>
-`2025.01 - 2025.08` 카카오테크 부트캠프 풀스택 2기<br>
-`2024.10 - 2025.03` 스위프 7기, 8기 프론트엔드 개발자<br>
-`2024.05 - 2024.07` [대한전기학회 하계학술대회 인공지능 논문 발표](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=2c8ad374666a17447ecd42904f0c5d65)<br>
-`2024.03 - 2024.12` 구름톤 유니브 (Kakao x 9oormthonUNIV) 2기, 3기 프론트엔드 개발자<br>
-`2023.11 - 2024.12` Medical System & Device Lab 학부 연구생<br>
-`2022.08 - 2023.09` GDGoC (Google Developer Groups on Campus) 프론트엔드<br>
-
-<br>
