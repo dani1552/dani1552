@@ -27,3 +27,12 @@
 - [[Next.js] SSE 브라우저 연결 오류 해결하기 (Nginx)](https://dani1552.tistory.com/11)
 - [[Next.js] useSearchParams 사용 시 Next.js 15 빌드 실패 이슈](https://dani1552.tistory.com/15)
 - [[Next.js] next-pwa와 Turbopack 호환성 문제 해결하기](https://dani1552.tistory.com/14)
+
+<br>
+<h2>Open Source Contributions</h2>
+
+- [Apache Zeppelin](https://github.com/apache/zeppelin)
+  - [[ZEPPELIN-6507] Return empty list from FileInterpreter.completion()](https://github.com/apache/zeppelin/pull/5394)
+  - [[ZEPPELIN-6500] Replace ansi-to-react with anser in the React text renderer](https://github.com/apache/zeppelin/pull/5536)
+
+
