@@ -32,7 +32,7 @@
 <h2>Open Source Contributions</h2>
 
 - [Apache Zeppelin](https://github.com/apache/zeppelin)
-  - [[ZEPPELIN-6507] Return empty list from FileInterpreter.completion()](https://github.com/apache/zeppelin/pull/5394)
-  - [[ZEPPELIN-6500] Replace ansi-to-react with anser in the React text renderer](https://github.com/apache/zeppelin/pull/5536)
+  - [[ZEPPELIN-6507]](https://github.com/apache/zeppelin/pull/5394) Return empty list from FileInterpreter.completion()
+  - [[ZEPPELIN-6500]](https://github.com/apache/zeppelin/pull/5536) Replace ansi-to-react with anser in the React text renderer
 
 
