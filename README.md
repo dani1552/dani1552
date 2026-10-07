@@ -1,7 +1,7 @@
 
 
 <div align="start">
-<h2>👩🏻‍💻 김다은 (Daeun Kim) | Fullstack Engineer</h2>
+<h2>김다은 (Daeun Kim) | Fullstack Engineer</h2>
 
 안녕하세요, **빠른 문제 해결을 통해 사용자 경험과 시스템 안정성을 함께 개선하는 개발자 김다은**입니다!  
 
@@ -32,7 +32,7 @@
 <h2>Open Source Contributions</h2>
 
 - [Apache Zeppelin](https://github.com/apache/zeppelin)
-  - [[ZEPPELIN-6507]](https://github.com/apache/zeppelin/pull/5394) Return empty list from FileInterpreter.completion()
-  - [[ZEPPELIN-6500]](https://github.com/apache/zeppelin/pull/5536) Replace ansi-to-react with anser in the React text renderer
+  - [#6507](https://github.com/apache/zeppelin/pull/5394) Return empty list from `FileInterpreter.completion()`
+  - [#6500](https://github.com/apache/zeppelin/pull/5536) Replace `ansi-to-react` with `anser` in the React text renderer
 
 
