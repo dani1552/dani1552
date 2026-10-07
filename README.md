@@ -21,12 +21,12 @@
 <br>
 <h2>Tech Blog</h2>
 
-- [[Next.js] Zustand를 활용한 성능 개선하기](https://dani1552.tistory.com/23)
-- [[Next.js] SSR 성능 최적화: Core Web Vitals 지표 개선하기](https://dani1552.tistory.com/30)
-- [[Next.js] Refresh Token 만료로 인한 페이지 무한 새로고침 오류 해결하기](https://dani1552.tistory.com/16)
-- [[Next.js] SSE 브라우저 연결 오류 해결하기 (Nginx)](https://dani1552.tistory.com/11)
-- [[Next.js] useSearchParams 사용 시 Next.js 15 빌드 실패 이슈](https://dani1552.tistory.com/15)
-- [[Next.js] next-pwa와 Turbopack 호환성 문제 해결하기](https://dani1552.tistory.com/14)
+- [Zustand를 활용한 성능 개선하기](https://dani1552.tistory.com/23)
+- [SSR 성능 최적화: Core Web Vitals 지표 개선하기](https://dani1552.tistory.com/30)
+- [Refresh Token 만료로 인한 페이지 무한 새로고침 오류 해결하기](https://dani1552.tistory.com/16)
+- [SSE 브라우저 연결 오류 해결하기 (Nginx)](https://dani1552.tistory.com/11)
+- [useSearchParams 사용 시 Next.js 15 빌드 실패 이슈](https://dani1552.tistory.com/15)
+- [next-pwa와 Turbopack 호환성 문제 해결하기](https://dani1552.tistory.com/14)
 
 <br>
 <h2>Open Source Contributions</h2>
